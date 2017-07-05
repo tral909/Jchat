@@ -13,3 +13,5 @@ Simple client server chat implementation.
 All parts start via main method.
 
 BotClient can respond current time in different formats.
+
+Simple GUI client added.
